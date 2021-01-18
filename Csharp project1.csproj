@@ -6,4 +6,8 @@
     <RootNamespace>Csharp_project1</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="StackExchange.Redis" Version="2.2.4" />
+  </ItemGroup>
+
 </Project>
